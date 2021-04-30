@@ -1,0 +1,512 @@
+x 0.022781 y -0.009766 z -0.990112 @ 175148.463568 
+x 0.038025 y 0.044449 z -0.022018 @ 175148.466068
+x 12.829681 y 50.227707 z -121.540710 @ 175148.449416
+QuaternionX 0.002487 QuaternionY 0.011741 QuaternionZ -0.000078 QuaternionW 0.999928 UserAccelX -0.000698 UserAccelY -0.004795 UserAccelZ 0.009600 RotationRateX -0.000967 RotationRateY 0.004557 RotationRateZ -0.002962 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175148.471086
+x 0.021591 y -0.008942 z -0.986633 @ 175151.464256
+x 0.080154 y 0.295227 z 0.260056 @ 175151.466756
+x 12.678070 y 50.071518 z -121.354034 @ 175151.440984
+QuaternionX 0.002542 QuaternionY 0.011777 QuaternionZ -0.000175 QuaternionW 0.999927 UserAccelX -0.001962 UserAccelY -0.003862 UserAccelZ 0.013076 RotationRateX -0.002100 RotationRateY 0.003012 RotationRateZ 0.003156 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175151.466756
+x 0.023743 y -0.004410 z -0.986450 @ 175154.464938
+x 0.218155 y 0.130325 z 0.007462 @ 175154.467438
+x 12.571884 y 49.974121 z -121.090500 @ 175154.433038
+QuaternionX 0.002396 QuaternionY 0.011846 QuaternionZ -0.000277 QuaternionW 0.999927 UserAccelX 0.000052 UserAccelY 0.000375 UserAccelZ 0.013258 RotationRateX 0.000367 RotationRateY 0.000146 RotationRateZ -0.001259 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175154.467438
+x 0.024155 y -0.002853 z -0.987656 @ 175157.465603
+x 0.109329 y 0.210373 z 0.042007 @ 175157.468103
+x 12.564804 y 49.114395 z -124.520279 @ 175157.465276
+QuaternionX 0.002343 QuaternionY 0.011818 QuaternionZ -0.000184 QuaternionW 0.999927 UserAccelX -0.000640 UserAccelY 0.001629 UserAccelZ 0.011489 RotationRateX -0.001623 RotationRateY 0.001668 RotationRateZ -0.000714 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175157.468103
+x 0.017929 y -0.008102 z -0.989197 @ 175160.456229
+x 0.266739 y 0.147003 z 0.106781 @ 175160.458729
+x 13.814926 y 50.543777 z -112.323318 @ 175160.457540
+QuaternionX 0.003026 QuaternionY 0.008941 QuaternionZ 0.062867 QuaternionW 0.997977 UserAccelX 0.000464 UserAccelY -0.000939 UserAccelZ 0.010625 RotationRateX 0.000018 RotationRateY 0.001019 RotationRateZ 0.001577 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175160.463747
+x 0.017639 y -0.007278 z -0.986908 @ 175163.456882
+x 0.091537 y 0.124542 z 0.061783 @ 175163.459382
+x 13.582108 y 51.000656 z -112.711075 @ 175163.449172
+QuaternionX 0.003118 QuaternionY 0.008880 QuaternionZ 0.062818 QuaternionW 0.997981 UserAccelX 0.000307 UserAccelY 0.000060 UserAccelZ 0.012915 RotationRateX -0.002425 RotationRateY -0.000539 RotationRateZ 0.001170 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175163.464400
+x 0.016785 y -0.007751 z -0.988571 @ 175166.457529
+x 0.183502 y 0.144730 z 0.113220 @ 175166.460029
+x 13.612854 y 50.722885 z -113.192474 @ 175166.440746
+QuaternionX 0.003009 QuaternionY 0.009013 QuaternionZ 0.062953 QuaternionW 0.997971 UserAccelX -0.000825 UserAccelY -0.000610 UserAccelZ 0.011248 RotationRateX -0.001226 RotationRateY -0.002409 RotationRateZ 0.000165 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175166.465047
+x 0.018738 y -0.007996 z -0.988113 @ 175169.458170
+x 0.171768 y 0.158218 z 0.009201 @ 175169.460670
+x 13.625244 y 50.715195 z -112.880554 @ 175169.432413
+QuaternionX 0.002929 QuaternionY 0.009066 QuaternionZ 0.063000 QuaternionW 0.997968 UserAccelX 0.001011 UserAccelY -0.001006 UserAccelZ 0.011705 RotationRateX -0.000355 RotationRateY -0.001469 RotationRateZ -0.001024 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175169.465688
+x 0.018082 y -0.007996 z -0.988098 @ 175172.458804
+x 0.335907 y 0.141251 z -0.003342 @ 175172.461304
+x 13.732162 y 50.624374 z -112.355850 @ 175172.463672
+QuaternionX 0.003053 QuaternionY 0.009021 QuaternionZ 0.063028 QuaternionW 0.997966 UserAccelX 0.000462 UserAccelY -0.000765 UserAccelZ 0.011720 RotationRateX 0.000001 RotationRateY 0.001020 RotationRateZ 0.000115 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175172.466322
+x 0.017868 y -0.006393 z -0.987747 @ 175175.459435
+x 0.002350 y 0.203140 z 0.201752 @ 175175.461935
+x 13.731491 y 50.646591 z -113.140381 @ 175175.456040
+QuaternionX 0.003118 QuaternionY 0.008971 QuaternionZ 0.063186 QuaternionW 0.997957 UserAccelX 0.000356 UserAccelY 0.000964 UserAccelZ 0.012072 RotationRateX 0.000604 RotationRateY -0.000626 RotationRateZ -0.001798 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175175.466953
+x 0.017410 y -0.007523 z -0.987427 @ 175178.460057
+x 0.185638 y 0.073532 z 0.011703 @ 175178.462557
+x 13.637573 y 50.916702 z -112.786224 @ 175178.448442
+QuaternionX 0.003129 QuaternionY 0.008983 QuaternionZ 0.063058 QuaternionW 0.997965 UserAccelX -0.000124 UserAccelY -0.000144 UserAccelZ 0.012392 RotationRateX 0.000314 RotationRateY -0.000796 RotationRateZ 0.001714 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175178.467575
+x 0.017609 y -0.008957 z -0.988815 @ 175181.460681
+x 0.296585 y 0.186569 z -0.022034 @ 175181.463181
+x 13.566025 y 50.748138 z -112.655106 @ 175181.440953
+QuaternionX 0.003082 QuaternionY 0.009116 QuaternionZ 0.063024 QuaternionW 0.997966 UserAccelX -0.000198 UserAccelY -0.001656 UserAccelZ 0.011000 RotationRateX 0.001652 RotationRateY 0.001206 RotationRateZ -0.001710 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175181.463181
+x 0.028534 y -0.004196 z -0.997681 @ 175184.461299
+x -0.201874 y 0.832718 z 0.082230 @ 175184.463799
+x 14.171722 y 50.490128 z -112.461609 @ 175184.433637
+QuaternionX 0.001313 QuaternionY 0.011711 QuaternionZ 0.063003 QuaternionW 0.997944 UserAccelX 0.005325 UserAccelY -0.000100 UserAccelZ 0.002042 RotationRateX -0.007030 RotationRateY 0.012426 RotationRateZ 0.000057 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175184.463799
+x 0.023972 y -0.005264 z -0.987930 @ 175187.461913
+x 0.268326 y 0.080673 z 0.046631 @ 175187.464413
+x 14.545776 y 50.395767 z -111.489365 @ 175187.465355
+QuaternionX 0.001191 QuaternionY 0.011886 QuaternionZ 0.062857 QuaternionW 0.997951 UserAccelX -0.000106 UserAccelY -0.002338 UserAccelZ 0.011983 RotationRateX 0.001220 RotationRateY -0.000637 RotationRateZ -0.000461 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175187.464413
+x 0.022827 y -0.001831 z -0.988312 @ 175190.462532
+x 0.136429 y 0.174515 z 0.129730 @ 175190.465032
+x 14.568375 y 50.603958 z -112.403183 @ 175190.457566
+QuaternionX 0.001512 QuaternionY 0.011651 QuaternionZ 0.062859 QuaternionW 0.997953 UserAccelX -0.000238 UserAccelY 0.002651 UserAccelZ 0.011412 RotationRateX -0.001069 RotationRateY 0.000910 RotationRateZ 0.000979 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175190.465032
+x 0.999710 y -0.002090 z 0.130905 @ 175193.463154
+x -22.579102 y -4.806763 z -6.366394 @ 175193.465654
+x 51.476349 y 45.694763 z -14.484955 @ 175193.450141
+QuaternionX -0.128001 QuaternionY 0.734841 QuaternionZ 0.137615 QuaternionW 0.651680 UserAccelX 0.019017 UserAccelY 0.023609 UserAccelZ 0.012645 RotationRateX -0.397541 RotationRateY -0.085949 RotationRateZ -0.112354 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175193.465654
+x -0.016678 y 0.005585 z 1.013275 @ 175196.463771
+x 0.056244 y -0.055038 z 0.076004 @ 175196.466271
+x 18.298416 y 51.931625 z 18.710709 @ 175196.442635
+QuaternionX -0.118160 QuaternionY 0.992718 QuaternionZ -0.002532 QuaternionW -0.023309 UserAccelX 0.030199 UserAccelY 0.006066 UserAccelZ 0.014375 RotationRateX -0.002480 RotationRateY -0.003017 RotationRateZ 0.000088 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175196.466271
+x -0.014008 y -0.001007 z 1.013519 @ 175199.464398
+x 0.225418 y 0.306015 z -0.067459 @ 175199.466898
+x 18.371735 y 51.898438 z 18.349396 @ 175199.434953
+QuaternionX -0.118122 QuaternionY 0.992746 QuaternionZ -0.002427 QuaternionW -0.022296 UserAccelX 0.030834 UserAccelY -0.000559 UserAccelZ 0.014525 RotationRateX 0.000676 RotationRateY 0.003273 RotationRateZ -0.002461 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175199.466898
+x -0.717072 y 0.011688 z -0.732635 @ 175202.465015
+x -11.060928 y 99.385727 z -8.876129 @ 175202.467515
+x -11.126526 y 55.144958 z -43.842285 @ 175202.467325
+QuaternionX 0.023955 QuaternionY 0.370157 QuaternionZ -0.106618 QuaternionW -0.922520 UserAccelX -0.039226 UserAccelY -0.111440 UserAccelZ -0.007815 RotationRateX -0.196635 RotationRateY 1.732324 RotationRateZ -0.156194 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175202.467515
+x 0.019073 y -0.007263 z -0.987762 @ 175205.465641
+x 0.267715 y 0.042633 z 0.097458 @ 175205.468141
+x 11.397598 y 50.057785 z -61.620544 @ 175205.459927
+QuaternionX 0.004621 QuaternionY -0.038140 QuaternionZ 0.000412 QuaternionW -0.999262 UserAccelX -0.057498 UserAccelY -0.016347 UserAccelZ 0.009041 RotationRateX 0.001091 RotationRateY -0.001533 RotationRateZ 0.000409 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175205.468141
+x 0.155579 y -0.106766 z -0.964783 @ 175208.456232
+x 21.044388 y -13.341873 z 39.729172 @ 175208.458732
+x 19.180222 y 38.787857 z -57.787628 @ 175208.452475
+QuaternionX -0.031402 QuaternionY -0.088617 QuaternionZ 0.002692 QuaternionW -0.995567 UserAccelX -0.018246 UserAccelY -0.009348 UserAccelZ 0.060233 RotationRateX 0.378684 RotationRateY -0.071528 RotationRateZ 0.668643 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175208.468768
+x -0.077103 y -0.971954 z -0.178040 @ 175211.456851
+x 25.597641 y 28.900879 z -26.080994 @ 175211.459351
+x 15.264084 y -1.820663 z -43.085098 @ 175211.445081
+QuaternionX -0.633315 QuaternionY -0.044528 QuaternionZ -0.029975 QuaternionW -0.772031 UserAccelX -0.107891 UserAccelY 0.008592 UserAccelZ 0.015820 RotationRateX 0.488226 RotationRateY 0.443308 RotationRateZ -0.454310 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175211.464368
+x 0.020370 y -0.993805 z -0.110168 @ 175214.457472
+x 1.985657 y -2.088669 z 0.321259 @ 175214.459972
+x 17.983170 y -3.306595 z -39.562241 @ 175214.437753
+QuaternionX -0.657974 QuaternionY -0.059016 QuaternionZ -0.010235 QuaternionW -0.750654 UserAccelX -0.054763 UserAccelY -0.004774 UserAccelZ 0.017006 RotationRateX 0.031414 RotationRateY -0.040921 RotationRateZ 0.004090 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175214.464990
+x 0.023895 y -0.996231 z -0.125854 @ 175217.458092
+x 0.289734 y 0.218323 z -0.112808 @ 175217.460592
+x 17.743469 y -3.542923 z -40.370468 @ 175217.430445
+QuaternionX -0.654070 QuaternionY -0.052624 QuaternionZ -0.004288 QuaternionW -0.754589 UserAccelX -0.049915 UserAccelY -0.008672 UserAccelZ 0.012991 RotationRateX -0.000014 RotationRateY 0.005606 RotationRateZ -0.001863 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175217.465610
+x 0.154282 y 0.984177 z -0.136505 @ 175220.458711
+x -135.731400 y 45.778656 z -21.385818 @ 175220.461211
+x 22.664017 y 68.485794 z -6.399384 @ 175220.462965
+QuaternionX 0.687997 QuaternionY -0.045555 QuaternionZ -0.108673 QuaternionW -0.716083 UserAccelX -0.060495 UserAccelY 0.008752 UserAccelZ -0.087334 RotationRateX -2.323668 RotationRateY 0.752533 RotationRateZ -0.363406 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175220.466229
+x 0.063660 y 0.974442 z 0.178726 @ 175223.459328
+x -0.117401 y -1.811584 z 1.773178 @ 175223.461828
+x 18.038300 y 65.937805 z 1.972092 @ 175223.455577
+QuaternionX 0.768116 QuaternionY -0.004546 QuaternionZ -0.059839 QuaternionW -0.637493 UserAccelX -0.034063 UserAccelY -0.004350 UserAccelZ -0.001318 RotationRateX -0.006839 RotationRateY -0.025760 RotationRateZ 0.034782 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175223.466846
+x 0.989731 y 0.773758 z -0.280716 @ 175226.459945
+x 79.868500 y -86.089493 z 87.279099 @ 175226.462445
+x 39.037048 y 64.470764 z -15.748383 @ 175226.448006
+QuaternionX 0.387198 QuaternionY -0.562422 QuaternionZ -0.016016 QuaternionW -0.730413 UserAccelX 0.155728 UserAccelY 0.226145 UserAccelZ -0.213196 RotationRateX 1.480830 RotationRateY -1.735757 RotationRateZ 1.521272 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175226.467463
+x 0.997757 y -0.071152 z -0.007202 @ 175229.460556
+x 0.980011 y 1.387894 z 0.254791 @ 175229.463056
+x 54.582260 y 45.652359 z -20.122086 @ 175229.440698
+QuaternionX 0.051378 QuaternionY -0.716648 QuaternionZ -0.093570 QuaternionW -0.689217 UserAccelX 0.000290 UserAccelY -0.007860 UserAccelZ -0.039651 RotationRateX 0.008237 RotationRateY 0.018198 RotationRateZ 0.000437 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175229.468074
+x 0.999939 y -0.050766 z 0.023071 @ 175232.461164
+x 1.122086 y 0.003540 z -0.035294 @ 175232.463664
+x 54.413437 y 46.289001 z -18.895828 @ 175232.433319
+QuaternionX 0.063321 QuaternionY -0.724708 QuaternionZ -0.090816 QuaternionW -0.680104 UserAccelX 0.002685 UserAccelY -0.005265 UserAccelZ -0.035350 RotationRateX 0.014020 RotationRateY 0.000422 RotationRateZ -0.002368 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175232.468681
+x 0.061691 y -0.111298 z -0.982224 @ 175235.461772
+x 7.229736 y -19.155975 z -5.201691 @ 175235.464272
+x 20.366684 y 43.179184 z -58.121597 @ 175235.465729
+QuaternionX -0.044951 QuaternionY -0.056689 QuaternionZ -0.115273 QuaternionW -0.990696 UserAccelX -0.040269 UserAccelY -0.009163 UserAccelZ 0.007308 RotationRateX 0.122509 RotationRateY -0.336403 RotationRateZ -0.092063 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175235.464272
+x 0.994736 y -0.131226 z -0.011032 @ 175238.462371
+x 0.649307 y 3.495773 z -0.815140 @ 175238.464871
+x 55.800018 y 43.124115 z -20.096909 @ 175238.458277
+QuaternionX 0.032474 QuaternionY -0.713774 QuaternionZ -0.119369 QuaternionW -0.689365 UserAccelX 0.002882 UserAccelY -0.005593 UserAccelZ -0.032088 RotationRateX 0.007659 RotationRateY 0.058944 RotationRateZ -0.015503 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175238.464871
+x 0.040207 y -0.127457 z -0.978561 @ 175241.462970
+x 0.029465 y 1.426987 z 0.652390 @ 175241.465470
+x 17.977234 y 42.709030 z -60.969284 @ 175241.450857
+QuaternionX -0.057637 QuaternionY -0.036666 QuaternionZ -0.090380 QuaternionW -0.993562 UserAccelX -0.023775 UserAccelY -0.006876 UserAccelZ 0.008535 RotationRateX -0.003160 RotationRateY 0.022835 RotationRateZ 0.010111 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175241.465470
+x -0.004944 y -0.989136 z -0.009125 @ 175244.463564
+x 23.832626 y -2.314255 z -2.387390 @ 175244.466064
+x 18.737015 y -3.216721 z -37.960770 @ 175244.443302
+QuaternionX -0.688070 QuaternionY -0.082246 QuaternionZ -0.083129 QuaternionW -0.716160 UserAccelX -0.008349 UserAccelY 0.010075 UserAccelZ 0.030467 RotationRateX 0.412282 RotationRateY -0.042466 RotationRateZ -0.042943 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175244.466064
+x 0.017303 y -0.993805 z 0.104858 @ 175247.464158
+x 0.234375 y -1.457642 z 0.413528 @ 175247.466658
+x 19.359955 y -4.871063 z -32.586060 @ 175247.435433
+QuaternionX -0.733583 QuaternionY -0.085300 QuaternionZ -0.053427 QuaternionW -0.672105 UserAccelX -0.018972 UserAccelY 0.001400 UserAccelZ 0.014018 RotationRateX 0.000415 RotationRateY -0.027515 RotationRateZ 0.005942 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175247.466658
+x 0.004044 y -0.994766 z 0.090897 @ 175250.464748
+x -1.539505 y 0.110718 z -0.749512 @ 175250.467248
+x 19.252914 y -4.636703 z -33.092072 @ 175250.467174
+QuaternionX -0.728995 QuaternionY -0.076965 QuaternionZ -0.051108 QuaternionW -0.678255 UserAccelX -0.025846 UserAccelY 0.001991 UserAccelZ 0.016181 RotationRateX -0.030546 RotationRateY -0.000145 RotationRateZ -0.014356 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175250.467248
+x -0.002151 y -0.986465 z -0.046173 @ 175253.465337
+x -1.342804 y 3.840775 z 0.067871 @ 175253.467837
+x 17.870132 y -2.814560 z -38.214066 @ 175253.458857
+QuaternionX -0.681143 QuaternionY -0.050139 QuaternionZ -0.037779 QuaternionW -0.729454 UserAccelX -0.023834 UserAccelY 0.011048 UserAccelZ 0.020887 RotationRateX -0.027114 RotationRateY 0.064956 RotationRateZ -0.000090 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175253.467837
+x 0.036240 y 0.122787 z -0.970963 @ 175256.455890
+x -4.936768 y 5.792633 z 2.152878 @ 175256.468426
+x 16.824646 y 52.159256 z -56.711807 @ 175256.450489
+QuaternionX 0.064472 QuaternionY -0.020740 QuaternionZ -0.069119 QuaternionW -0.995307 UserAccelX -0.013957 UserAccelY -0.002684 UserAccelZ 0.019864 RotationRateX -0.089841 RotationRateY 0.099020 RotationRateZ 0.036300 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175256.468426
+x 0.059540 y 0.015640 z -0.981552 @ 175259.456484
+x -0.083221 y -1.222641 z 0.191772 @ 175259.458984
+x 17.931366 y 47.760834 z -57.303207 @ 175259.442292
+QuaternionX 0.011221 QuaternionY -0.031900 QuaternionZ -0.067662 QuaternionW -0.997135 UserAccelX -0.005596 UserAccelY -0.002421 UserAccelZ 0.016161 RotationRateX -0.004227 RotationRateY -0.021330 RotationRateZ 0.000540 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175259.464002
+x 0.008377 y -1.001877 z -0.103088 @ 175262.457084
+x 0.961960 y 0.713135 z 0.430527 @ 175262.459584
+x 17.668625 y -1.877518 z -40.541840 @ 175262.434008
+QuaternionX -0.666398 QuaternionY -0.048156 QuaternionZ -0.040762 QuaternionW -0.742922 UserAccelX -0.008848 UserAccelY -0.007787 UserAccelZ 0.004100 RotationRateX 0.014529 RotationRateY 0.003272 RotationRateZ 0.005691 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175262.464602
+x -0.138260 y -0.946655 z -0.248505 @ 175265.457689
+x 26.597672 y 6.596085 z -10.156860 @ 175265.460189
+x 14.341690 y 0.418945 z -44.548492 @ 175265.466015
+QuaternionX -0.615102 QuaternionY -0.015298 QuaternionZ -0.089797 QuaternionW -0.783168 UserAccelX -0.051753 UserAccelY 0.019549 UserAccelZ -0.005674 RotationRateX 0.448909 RotationRateY 0.088702 RotationRateZ -0.178633 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175265.465206
+x -0.010834 y -0.989487 z -0.168701 @ 175268.458313
+x -9.898026 y 6.812408 z -0.549820 @ 175268.460813
+x 16.533386 y -1.098770 z -42.453003 @ 175268.457574
+QuaternionX -0.637586 QuaternionY -0.029465 QuaternionZ -0.045376 QuaternionW -0.768477 UserAccelX 0.001743 UserAccelY -0.006873 UserAccelZ 0.016531 RotationRateX -0.177284 RotationRateY 0.111170 RotationRateZ -0.002711 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175268.465831
+x 0.036514 y -0.980591 z -0.223862 @ 175271.458964
+x 3.564484 y 0.543488 z 0.625595 @ 175271.461464
+x 18.964203 y -0.111938 z -43.542679 @ 175271.448944
+QuaternionX -0.623222 QuaternionY -0.059959 QuaternionZ -0.047226 QuaternionW -0.778311 UserAccelX 0.002045 UserAccelY -0.004806 UserAccelZ -0.007864 RotationRateX 0.059133 RotationRateY 0.006720 RotationRateZ 0.008034 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175271.466482
+x 1.002304 y -0.062866 z 0.000992 @ 175274.459646
+x -1.243225 y -1.475662 z -1.857178 @ 175274.462146
+x 53.464951 y 30.406448 z -37.022964 @ 175274.440001
+QuaternionX -0.476717 QuaternionY -0.519688 QuaternionZ 0.457702 QuaternionW -0.541455 UserAccelX 0.003139 UserAccelY -0.022349 UserAccelZ 0.006321 RotationRateX -0.023478 RotationRateY -0.022033 RotationRateZ -0.037952 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175274.467164
+x 0.990845 y -0.049103 z 0.010956 @ 175277.460361
+x 0.671707 y 1.521378 z -0.585983 @ 175277.462861
+x 53.681473 y 30.750854 z -36.601425 @ 175277.431482
+QuaternionX -0.473766 QuaternionY -0.526750 QuaternionZ 0.455435 QuaternionW -0.539129 UserAccelX -0.008666 UserAccelY -0.018061 UserAccelZ 0.007118 RotationRateX 0.010307 RotationRateY 0.018250 RotationRateZ -0.009971 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175277.467879
+x 0.020966 y -0.978821 z -0.190170 @ 175280.461101
+x -1.804550 y 1.329285 z -2.097870 @ 175280.463601
+x 18.147644 y -0.251114 z -42.894302 @ 175280.462800
+QuaternionX -0.631642 QuaternionY -0.049775 QuaternionZ -0.039599 QuaternionW -0.772647 UserAccelX -0.005926 UserAccelY 0.001193 UserAccelZ 0.006932 RotationRateX -0.035125 RotationRateY 0.021267 RotationRateZ -0.037898 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175280.463601
+x 0.037582 y -0.993439 z -0.094162 @ 175283.461855
+x 2.099304 y -0.342529 z 1.986084 @ 175283.464355
+x 19.380356 y -2.423325 z -39.370712 @ 175283.454399
+QuaternionX -0.668521 QuaternionY -0.065106 QuaternionZ -0.038384 QuaternionW -0.739843 UserAccelX -0.007434 UserAccelY 0.000760 UserAccelZ 0.003521 RotationRateX 0.033012 RotationRateY -0.007904 RotationRateZ 0.033380 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175283.464355
+x -0.992279 y -0.071701 z 0.001343 @ 175286.462619
+x 0.069168 y 1.085541 z -0.644516 @ 175286.465119
+x -21.882797 y 31.836395 z -35.390015 @ 175286.446036
+QuaternionX -0.541200 QuaternionY 0.453924 QuaternionZ -0.509086 QuaternionW -0.491821 UserAccelX 0.005253 UserAccelY -0.001527 UserAccelZ 0.003455 RotationRateX -0.002418 RotationRateY 0.017028 RotationRateZ -0.012533 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175286.465119
+x 0.140442 y -0.994675 z -0.003479 @ 175289.463387
+x -1.570908 y -2.124985 z 9.087921 @ 175289.465888
+x 22.323761 y -3.562805 z -36.381073 @ 175289.437733
+QuaternionX -0.696698 QuaternionY -0.078576 QuaternionZ 0.026702 QuaternionW -0.712548 UserAccelX -0.003738 UserAccelY -0.002622 UserAccelZ 0.014465 RotationRateX -0.031042 RotationRateY -0.039005 RotationRateZ 0.157330 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175289.465888
+x 0.071289 y -0.062180 z -1.008759 @ 175292.464160
+x -74.677811 y -9.017242 z -2.143143 @ 175292.466660
+x 16.465012 y 44.487930 z -60.102158 @ 175292.469344
+QuaternionX -0.043765 QuaternionY -0.030899 QuaternionZ -0.030743 QuaternionW -0.998091 UserAccelX 0.012299 UserAccelY 0.027084 UserAccelZ -0.014499 RotationRateX -1.306998 RotationRateY -0.159296 RotationRateZ -0.038689 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175292.466660
+x 0.031494 y 0.013214 z -0.988892 @ 175295.464941
+x -0.011810 y 1.546768 z 0.626923 @ 175295.467441
+x 15.681229 y 48.031662 z -58.179657 @ 175295.460946
+QuaternionX 0.006664 QuaternionY -0.018174 QuaternionZ -0.039554 QuaternionW -0.999030 UserAccelX -0.005345 UserAccelY 0.001337 UserAccelZ 0.010359 RotationRateX -0.003828 RotationRateY 0.025090 RotationRateZ 0.009658 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175295.467441
+x 0.043030 y -0.286942 z -0.971878 @ 175298.465722
+x 142.946930 y 13.531189 z 4.744781 @ 175298.468222
+x 17.096054 y 36.907333 z -60.928665 @ 175298.452445
+QuaternionX -0.159967 QuaternionY -0.034967 QuaternionZ -0.046081 QuaternionW -0.985426 UserAccelX -0.011142 UserAccelY 0.031553 UserAccelZ -0.025503 RotationRateX 2.491275 RotationRateY 0.234264 RotationRateZ 0.081528 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175298.468222
+x 0.980881 y -0.214020 z -0.056259 @ 175301.456469
+x -1.100388 y 0.711212 z -49.636719 @ 175301.458969
+x 50.589569 y 22.752960 z -40.146912 @ 175301.443992
+QuaternionX -0.516691 QuaternionY -0.432114 QuaternionZ 0.492393 QuaternionW -0.551231 UserAccelX -0.004340 UserAccelY -0.069927 UserAccelZ 0.036355 RotationRateX -0.034811 RotationRateY 0.047015 RotationRateZ -0.825767 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175301.463987
+x 0.990967 y 0.034683 z -0.055374 @ 175304.457251
+x -0.154236 y -1.049301 z 0.095779 @ 175304.459751
+x 52.368088 y 30.426315 z -39.342453 @ 175304.435588
+QuaternionX -0.472326 QuaternionY -0.494630 QuaternionZ 0.529747 QuaternionW -0.501615 UserAccelX -0.005687 UserAccelY -0.015522 UserAccelZ 0.009125 RotationRateX -0.008812 RotationRateY -0.022091 RotationRateZ 0.003608 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175304.464769
+x 0.056168 y -0.988571 z -0.127319 @ 175307.458015
+x -2.293274 y 1.411301 z 2.026932 @ 175307.460515
+x 19.012039 y -1.733841 z -40.715073 @ 175307.467011
+QuaternionX -0.655973 QuaternionY -0.046456 QuaternionZ -0.009713 QuaternionW -0.753291 UserAccelX -0.001079 UserAccelY 0.000608 UserAccelZ 0.007763 RotationRateX -0.049608 RotationRateY 0.014323 RotationRateZ 0.037691 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175307.465533
+x 0.027618 y -0.998886 z -0.132721 @ 175310.458775
+x -0.167831 y -3.294113 z 1.878281 @ 175310.461275
+x 18.200638 y -1.180115 z -40.961258 @ 175310.458626
+QuaternionX -0.654769 QuaternionY -0.041249 QuaternionZ -0.019796 QuaternionW -0.754443 UserAccelX -0.008698 UserAccelY -0.009281 UserAccelZ 0.006432 RotationRateX -0.006742 RotationRateY -0.056784 RotationRateZ 0.038076 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175310.466293
+x -0.993057 y -0.024536 z -0.138306 @ 175313.459543
+x -0.268188 y -2.636475 z 2.364243 @ 175313.462043
+x -18.663879 y 33.162354 z -40.490494 @ 175313.451014
+QuaternionX -0.486460 QuaternionY 0.439812 QuaternionZ -0.552586 QuaternionW -0.514364 UserAccelX -0.002988 UserAccelY -0.010168 UserAccelZ 0.001539 RotationRateX -0.012187 RotationRateY -0.026548 RotationRateZ 0.040212 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175313.467061
+x -0.002701 y -0.992905 z -0.113754 @ 175316.460335
+x 1.983994 y 1.838058 z 0.797653 @ 175316.462835
+x 17.205246 y -1.756790 z -39.324036 @ 175316.443381
+QuaternionX -0.663640 QuaternionY -0.034165 QuaternionZ -0.040527 QuaternionW -0.746172 UserAccelX 0.000104 UserAccelY 0.000243 UserAccelZ 0.003076 RotationRateX 0.030437 RotationRateY 0.029282 RotationRateZ 0.011523 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175316.467853
+x -0.052277 y -0.991837 z -0.108490 @ 175319.461134
+x 2.290283 y 1.404449 z -3.098267 @ 175319.463634
+x 15.135315 y -1.107513 z -40.419937 @ 175319.435819
+QuaternionX -0.665288 QuaternionY -0.013677 QuaternionZ -0.054536 QuaternionW -0.744467 UserAccelX -0.000075 UserAccelY 0.000225 UserAccelZ 0.005920 RotationRateX 0.030355 RotationRateY 0.030915 RotationRateZ -0.058337 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175319.468652
+x -0.979813 y -0.104202 z -0.193130 @ 175322.461988
+x 7.357117 y -23.441315 z -4.166321 @ 175322.464488
+x -18.336075 y 30.798218 z -41.073914 @ 175322.468057
+QuaternionX -0.499939 QuaternionY 0.413221 QuaternionZ -0.546248 QuaternionW -0.530022 UserAccelX 0.004400 UserAccelY -0.025688 UserAccelZ -0.034511 RotationRateX 0.124806 RotationRateY -0.410963 RotationRateZ -0.074000 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175322.464488
+x -0.967514 y -0.012115 z -0.205566 @ 175325.462893
+x 1.566452 y -4.552872 z 1.331528 @ 175325.465393
+x -17.841202 y 34.633301 z -44.030594 @ 175325.460459
+QuaternionX -0.462794 QuaternionY 0.430278 QuaternionZ -0.564106 QuaternionW -0.531476 UserAccelX 0.011981 UserAccelY -0.005633 UserAccelZ -0.004203 RotationRateX 0.023754 RotationRateY -0.081253 RotationRateZ 0.021955 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175325.465393
+x -0.986404 y 0.093338 z -0.198929 @ 175328.463838
+x -0.420639 y 2.465851 z -0.099487 @ 175328.466338
+x -17.438171 y 38.394394 z -42.864395 @ 175328.452854
+QuaternionX -0.434472 QuaternionY 0.462083 QuaternionZ -0.583614 QuaternionW -0.507058 UserAccelX -0.010671 UserAccelY -0.005413 UserAccelZ -0.003502 RotationRateX -0.010921 RotationRateY 0.041266 RotationRateZ -0.003021 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175328.466338
+x -0.138077 y 0.960342 z -0.195557 @ 175331.464763
+x 1.540863 y -0.332260 z -1.161972 @ 175331.467263
+x 11.164841 y 65.828110 z -43.843796 @ 175331.445174
+QuaternionX -0.111254 QuaternionY 0.625158 QuaternionZ -0.772032 QuaternionW 0.027688 UserAccelX -0.000912 UserAccelY -0.011102 UserAccelZ -0.001956 RotationRateX 0.023300 RotationRateY -0.007610 RotationRateZ -0.021564 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175331.467263
+x 0.062195 y 0.979416 z -0.215652 @ 175334.465641
+x -4.181473 y -2.320496 z 0.430893 @ 175334.468141
+x 18.267410 y 65.249878 z -44.304337 @ 175334.437636
+QuaternionX -0.043341 QuaternionY 0.630453 QuaternionZ -0.768283 QuaternionW 0.101943 UserAccelX 0.000250 UserAccelY 0.001847 UserAccelZ -0.014351 RotationRateX -0.076581 RotationRateY -0.042335 RotationRateZ 0.006236 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175334.468141
+x 0.009323 y 0.969650 z -0.201736 @ 175337.456464
+x -0.233902 y -1.805817 z -0.104721 @ 175337.458964
+x 17.291306 y 65.243912 z -43.956482 @ 175337.429937
+QuaternionX -0.050527 QuaternionY 0.630953 QuaternionZ -0.770685 QuaternionW 0.073410 UserAccelX -0.005432 UserAccelY -0.010301 UserAccelZ -0.003047 RotationRateX -0.007537 RotationRateY -0.027426 RotationRateZ -0.001111 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175337.463982
+x 0.975220 y 0.171036 z -0.062256 @ 175340.457358
+x -42.387497 y -4.372040 z 7.851974 @ 175340.459858
+x 51.779144 y 35.655319 z -40.661530 @ 175340.462054
+QuaternionX 0.444429 QuaternionY 0.513421 QuaternionZ -0.565542 QuaternionW 0.468021 UserAccelX -0.008051 UserAccelY 0.006318 UserAccelZ 0.015507 RotationRateX -0.761997 RotationRateY -0.052000 RotationRateZ 0.150778 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175340.464876
+x 0.986130 y 0.086639 z -0.086349 @ 175343.458225
+x -0.242050 y 0.528412 z 1.162704 @ 175343.460725
+x 51.289719 y 35.627686 z -41.071884 @ 175343.454220
+QuaternionX 0.416905 QuaternionY 0.530550 QuaternionZ -0.502921 QuaternionW 0.540165 UserAccelX -0.006379 UserAccelY 0.003385 UserAccelZ 0.003064 RotationRateX -0.009919 RotationRateY 0.007186 RotationRateZ 0.017341 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175343.465744
+x 0.999191 y 0.074188 z -0.086334 @ 175346.459057
+x 0.826111 y -0.205704 z -0.360168 @ 175346.461557
+x 51.270660 y 35.257324 z -40.770706 @ 175346.446452
+QuaternionX 0.425774 QuaternionY 0.528595 QuaternionZ -0.496576 QuaternionW 0.541032 UserAccelX 0.004359 UserAccelY 0.009927 UserAccelZ -0.007727 RotationRateX 0.009982 RotationRateY 0.000339 RotationRateZ -0.005411 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175346.466575
+x 0.333572 y -0.577972 z -0.726273 @ 175349.459863
+x -4.381104 y 14.988663 z 66.362183 @ 175349.462363
+x 21.663864 y 22.396423 z -59.184982 @ 175349.437832
+QuaternionX 0.323271 QuaternionY 0.099518 QuaternionZ -0.130160 QuaternionW 0.932014 UserAccelX 0.063915 UserAccelY -0.001293 UserAccelZ 0.044912 RotationRateX -0.074599 RotationRateY 0.228402 RotationRateZ 1.131216 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175349.467381
+x 0.023788 y -0.004120 z -0.986160 @ 175352.460699
+x 0.202042 y 0.249344 z -0.016205 @ 175352.463199
+x 9.621521 y 48.978806 z -60.814972 @ 175352.468969
+QuaternionX 0.006402 QuaternionY 0.004208 QuaternionZ -0.062662 QuaternionW 0.998005 UserAccelX 0.014586 UserAccelY 0.008131 UserAccelZ 0.013722 RotationRateX -0.000751 RotationRateY -0.000519 RotationRateZ 0.000426 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175352.468217
+x 0.022369 y -0.004959 z -0.988022 @ 175355.461552
+x 0.216888 y 0.038132 z 0.139130 @ 175355.464052
+x 12.407440 y 49.870132 z -59.464813 @ 175355.460299
+QuaternionX 0.004343 QuaternionY 0.004078 QuaternionZ 0.017689 QuaternionW 0.999826 UserAccelX 0.014368 UserAccelY 0.003869 UserAccelZ 0.011907 RotationRateX 0.000014 RotationRateY -0.001194 RotationRateZ 0.000944 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175355.464052
+x 0.099365 y -0.168640 z -1.010574 @ 175358.462393
+x -44.350845 y -10.107483 z 34.697113 @ 175358.464893
+x 10.775375 y 37.436951 z -59.504898 @ 175358.451655
+QuaternionX 0.107561 QuaternionY 0.010918 QuaternionZ -0.152458 QuaternionW 0.982379 UserAccelX 0.045118 UserAccelY 0.039362 UserAccelZ -0.033951 RotationRateX -0.777820 RotationRateY -0.178281 RotationRateZ 0.604132 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175358.464893
+x -0.013016 y -0.070908 z -0.992615 @ 175361.463219
+x 0.617554 y 1.027191 z 0.638916 @ 175361.465719
+x 13.158218 y 45.097260 z -59.415421 @ 175361.442997
+QuaternionX 0.039124 QuaternionY -0.012169 QuaternionZ 0.017411 QuaternionW 0.999009 UserAccelX 0.012660 UserAccelY 0.006838 UserAccelZ 0.004028 RotationRateX 0.007025 RotationRateY 0.016050 RotationRateZ 0.009704 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175361.465719
+x -0.042236 y -0.056061 z -0.981369 @ 175364.464044
+x -0.546921 y 0.513763 z -0.610748 @ 175364.466544
+x 12.437546 y 45.976700 z -59.106979 @ 175364.434273
+QuaternionX 0.029947 QuaternionY -0.023988 QuaternionZ 0.020351 QuaternionW 0.999056 UserAccelX 0.006914 UserAccelY 0.002800 UserAccelZ 0.015687 RotationRateX -0.013299 RotationRateY 0.007087 RotationRateZ -0.012106 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175364.466544
+x -0.030502 y -0.039169 z -0.982727 @ 175367.464889
+x 0.126785 y -0.297256 z -0.273254 @ 175367.467389
+x 12.440918 y 46.678772 z -58.887665 @ 175367.465403
+QuaternionX 0.021491 QuaternionY -0.020429 QuaternionZ 0.021238 QuaternionW 0.999335 UserAccelX 0.011241 UserAccelY 0.002916 UserAccelZ 0.015515 RotationRateX -0.001531 RotationRateY -0.007036 RotationRateZ -0.006216 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175367.467389
+x -0.052780 y -0.030457 z -0.988983 @ 175370.465745
+x 0.194214 y 1.170395 z 0.708923 @ 175370.468245
+x 11.825485 y 46.909119 z -57.985107 @ 175370.456691
+QuaternionX 0.012471 QuaternionY -0.026053 QuaternionZ 0.022208 QuaternionW 0.999336 UserAccelX -0.000155 UserAccelY -0.006688 UserAccelZ 0.009348 RotationRateX -0.000356 RotationRateY 0.018574 RotationRateZ 0.010926 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175370.468245
+x -0.076523 y -0.018082 z -0.994705 @ 175373.456585
+x -2.408325 y 0.630737 z -1.377304 @ 175373.459085
+x 10.419357 y 47.331436 z -58.806458 @ 175373.447964
+QuaternionX 0.009411 QuaternionY -0.041257 QuaternionZ 0.015935 QuaternionW 0.998977 UserAccelX 0.006206 UserAccelY -0.000595 UserAccelZ 0.001713 RotationRateX -0.037743 RotationRateY 0.003915 RotationRateZ -0.026968 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175373.464103
+x 0.022324 y -0.005981 z -0.987640 @ 175376.457454
+x 0.271805 y -0.022369 z 0.079193 @ 175376.459954
+x 5.956268 y 46.510727 z -60.122925 @ 175376.439023
+QuaternionX 0.001934 QuaternionY 0.009390 QuaternionZ -0.185989 QuaternionW 0.982505 UserAccelX 0.003153 UserAccelY -0.005675 UserAccelZ 0.012176 RotationRateX 0.001620 RotationRateY 0.001330 RotationRateZ 0.000942 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175376.464972
+x 0.022690 y -0.002701 z -0.987610 @ 175379.458308
+x 0.270615 y 0.209946 z 0.111710 @ 175379.460808
+x 5.986313 y 46.675552 z -60.399353 @ 175379.430284
+QuaternionX 0.002139 QuaternionY 0.009726 QuaternionZ -0.185891 QuaternionW 0.982520 UserAccelX 0.002783 UserAccelY -0.002113 UserAccelZ 0.012192 RotationRateX -0.000763 RotationRateY -0.002147 RotationRateZ 0.001017 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175379.465826
+x 0.022751 y -0.006210 z -0.989807 @ 175382.459153
+x -0.016479 y 0.363937 z 0.145081 @ 175382.461653
+x 5.986267 y 46.469238 z -59.952148 @ 175382.461275
+QuaternionX 0.002425 QuaternionY 0.010084 QuaternionZ -0.186009 QuaternionW 0.982493 UserAccelX 0.002034 UserAccelY -0.005197 UserAccelZ 0.009978 RotationRateX -0.004257 RotationRateY 0.008743 RotationRateZ 0.000194 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175382.466671
+x 0.023148 y -0.006134 z -0.987274 @ 175385.459969
+x 0.254532 y -0.031082 z 0.085434 @ 175385.462469
+x 5.914429 y 46.459396 z -57.001297 @ 175385.452391
+QuaternionX 0.002681 QuaternionY 0.010133 QuaternionZ -0.185892 QuaternionW 0.982514 UserAccelX 0.002240 UserAccelY -0.004634 UserAccelZ 0.012506 RotationRateX 0.000793 RotationRateY -0.001410 RotationRateZ -0.001666 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175385.467487
+x 0.023056 y -0.004257 z -0.985840 @ 175388.460773
+x 0.421600 y 0.067047 z 0.214539 @ 175388.463273
+x 5.888611 y 46.543747 z -57.107803 @ 175388.443383
+QuaternionX 0.002879 QuaternionY 0.010302 QuaternionZ -0.185997 QuaternionW 0.982492 UserAccelX 0.001741 UserAccelY -0.002433 UserAccelZ 0.013931 RotationRateX 0.000347 RotationRateY -0.001119 RotationRateZ 0.002141 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175388.468292
+x 0.022064 y -0.004822 z -0.980331 @ 175391.461582
+x 0.216232 y -0.090561 z 0.000427 @ 175391.464082
+x 5.795486 y 46.762589 z -57.725189 @ 175391.434331
+QuaternionX 0.002899 QuaternionY 0.010498 QuaternionZ -0.185956 QuaternionW 0.982498 UserAccelX 0.001442 UserAccelY -0.004173 UserAccelZ 0.012458 RotationRateX 0.000289 RotationRateY -0.003587 RotationRateZ -0.001388 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175391.464082
+x 0.023041 y -0.003906 z -0.987503 @ 175394.462370
+x 0.169327 y 0.069595 z 0.057465 @ 175394.464870
+x 5.893280 y 46.409698 z -57.380890 @ 175394.465164
+QuaternionX 0.003011 QuaternionY 0.010749 QuaternionZ -0.185928 QuaternionW 0.982500 UserAccelX 0.000799 UserAccelY -0.001986 UserAccelZ 0.012248 RotationRateX -0.000554 RotationRateY -0.000882 RotationRateZ -0.000426 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175394.464870
+x 0.022354 y -0.004288 z -0.988007 @ 175397.463164
+x 0.348114 y 0.177078 z 0.023499 @ 175397.465664
+x 5.912445 y 46.507751 z -57.320435 @ 175397.455968
+QuaternionX 0.003092 QuaternionY 0.010717 QuaternionZ -0.185989 QuaternionW 0.982489 UserAccelX 0.000145 UserAccelY -0.002199 UserAccelZ 0.011745 RotationRateX 0.002592 RotationRateY 0.001092 RotationRateZ -0.000996 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175397.465664
+x 0.023392 y -0.004028 z -0.989929 @ 175400.463950
+x 0.384521 y 0.174103 z 0.198303 @ 175400.466450
+x 5.856873 y 46.016861 z -56.305038 @ 175400.446936
+QuaternionX 0.003334 QuaternionY 0.011050 QuaternionZ -0.185951 QuaternionW 0.982491 UserAccelX 0.000438 UserAccelY -0.001586 UserAccelZ 0.009804 RotationRateX 0.003185 RotationRateY 0.000927 RotationRateZ 0.002065 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175400.466450
+x 0.021225 y -0.004547 z -0.986832 @ 175403.464738
+x 0.131744 y 0.057724 z -0.021240 @ 175403.467238
+x 5.848083 y 46.493683 z -57.470459 @ 175403.437742
+QuaternionX 0.003157 QuaternionY 0.010812 QuaternionZ -0.185950 QuaternionW 0.982495 UserAccelX -0.001194 UserAccelY -0.002365 UserAccelZ 0.012915 RotationRateX -0.001252 RotationRateY -0.001186 RotationRateZ -0.001818 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175403.467238
+x 0.024261 y -0.005371 z -0.989349 @ 175406.465568
+x 0.297974 y -0.001404 z 0.041321 @ 175406.468068
+x 5.899185 y 46.487366 z -57.070999 @ 175406.468514
+QuaternionX 0.003396 QuaternionY 0.010865 QuaternionZ -0.185822 QuaternionW 0.982517 UserAccelX 0.001650 UserAccelY -0.002736 UserAccelZ 0.010391 RotationRateX 0.001746 RotationRateY -0.002036 RotationRateZ -0.000768 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175406.468068
+x 0.026718 y -0.001740 z -0.987106 @ 175409.456410
+x 0.099136 y -0.057602 z 0.039993 @ 175409.458910
+x 5.908569 y 46.238388 z -56.819016 @ 175409.459231
+QuaternionX 0.003411 QuaternionY 0.011096 QuaternionZ -0.185754 QuaternionW 0.982528 UserAccelX 0.003648 UserAccelY 0.000840 UserAccelZ 0.012624 RotationRateX 0.001153 RotationRateY -0.000590 RotationRateZ 0.003096 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175409.463928
+x 0.022705 y -0.001328 z -0.988907 @ 175412.457332
+x 0.269073 y 0.125519 z 0.113342 @ 175412.459832
+x 5.874268 y 46.673828 z -56.874008 @ 175412.450309
+QuaternionX 0.003402 QuaternionY 0.010959 QuaternionZ -0.185976 QuaternionW 0.982487 UserAccelX -0.000095 UserAccelY 0.001282 UserAccelZ 0.010830 RotationRateX 0.002226 RotationRateY -0.000931 RotationRateZ -0.001246 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175412.464850
+x 0.033310 y 0.000687 z -0.988113 @ 175415.458242
+x 0.145126 y 0.258835 z 0.028168 @ 175415.460742
+x 5.835907 y 46.628128 z -56.651688 @ 175415.441657
+QuaternionX 0.003433 QuaternionY 0.010984 QuaternionZ -0.186024 QuaternionW 0.982478 UserAccelX 0.010449 UserAccelY 0.003346 UserAccelZ 0.011622 RotationRateX -0.000508 RotationRateY 0.001482 RotationRateZ -0.002224 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175415.465760
+x 0.005295 y -0.334183 z -0.887192 @ 175418.459128
+x 34.718460 y 17.059021 z 46.123306 @ 175418.461628
+x 10.274811 y 38.071548 z -57.882935 @ 175418.433094
+QuaternionX 0.138950 QuaternionY -0.013971 QuaternionZ -0.025638 QuaternionW 0.989869 UserAccelX 0.025830 UserAccelY -0.058383 UserAccelZ 0.073804 RotationRateX 0.643809 RotationRateY 0.292982 RotationRateZ 0.838457 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175418.466646
+x -0.018173 y -0.972824 z -0.182602 @ 175421.460014
+x -2.382767 y 1.230896 z -1.955841 @ 175421.462514
+x 15.928085 y -0.591888 z -44.528366 @ 175421.464387
+QuaternionX 0.632011 QuaternionY 0.041106 QuaternionZ 0.062384 QuaternionW 0.771350 UserAccelX -0.002733 UserAccelY 0.007308 UserAccelZ 0.015142 RotationRateX -0.046910 RotationRateY 0.020722 RotationRateZ -0.033644 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175421.467532
+x -0.021378 y -0.983322 z -0.160721 @ 175424.460927
+x 1.229660 y 0.665161 z -0.279831 @ 175424.463427
+x 15.619690 y -1.143417 z -41.737488 @ 175424.455924
+QuaternionX 0.645997 QuaternionY 0.031065 QuaternionZ 0.052801 QuaternionW 0.760878 UserAccelX -0.000432 UserAccelY 0.003008 UserAccelZ 0.002726 RotationRateX 0.012405 RotationRateY 0.011665 RotationRateZ -0.007735 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175424.468445
+x -0.025726 y -0.986328 z -0.160614 @ 175427.461879
+x 1.445328 y -0.197037 z -1.143936 @ 175427.464379
+x 15.408142 y -0.776108 z -43.468933 @ 175427.447271
+QuaternionX 0.644598 QuaternionY 0.030113 QuaternionZ 0.054857 QuaternionW 0.761956 UserAccelX -0.000895 UserAccelY -0.000713 UserAccelZ 0.006559 RotationRateX 0.021989 RotationRateY -0.005364 RotationRateZ -0.021496 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175427.464379
+x 0.006805 y -0.958633 z -0.166916 @ 175430.462834
+x -7.885788 y 10.474060 z -19.160568 @ 175430.465334
+x 17.114182 y 0.040054 z -44.636856 @ 175430.438374
+QuaternionX 0.627752 QuaternionY 0.051486 QuaternionZ 0.040074 QuaternionW 0.775674 UserAccelX -0.022754 UserAccelY 0.019355 UserAccelZ 0.039637 RotationRateX -0.140868 RotationRateY 0.180887 RotationRateZ -0.335945 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175430.465334
+x 0.990616 y 0.051987 z 0.147919 @ 175433.463776
+x 0.716003 y 0.327728 z -0.725800 @ 175433.466276
+x 55.289261 y 33.553619 z -32.607895 @ 175433.469544
+QuaternionX 0.465154 QuaternionY 0.596696 QuaternionZ -0.431592 QuaternionW 0.491237 UserAccelX 0.002864 UserAccelY -0.006070 UserAccelZ 0.003089 RotationRateX 0.009256 RotationRateY 0.003783 RotationRateZ -0.014198 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175433.466276
+x 0.985565 y 0.039963 z 0.156586 @ 175436.464701
+x 0.748840 y -0.240189 z 1.090698 @ 175436.467201
+x 55.660812 y 33.211441 z -31.937042 @ 175436.460880
+QuaternionX 0.467815 QuaternionY 0.599278 QuaternionZ -0.424134 QuaternionW 0.492062 UserAccelX -0.001032 UserAccelY -0.007997 UserAccelZ 0.000616 RotationRateX 0.009824 RotationRateY -0.006144 RotationRateZ 0.017505 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175436.467201
+x 0.990005 y 0.026291 z 0.166367 @ 175439.465612
+x -0.486023 y 0.699799 z -0.145660 @ 175439.468112
+x 55.708344 y 33.036713 z -31.942871 @ 175439.452837
+QuaternionX 0.471375 QuaternionY 0.598445 QuaternionZ -0.418656 QuaternionW 0.494365 UserAccelX 0.003617 UserAccelY -0.008731 UserAccelZ 0.005705 RotationRateX -0.011733 RotationRateY 0.010248 RotationRateZ -0.004074 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175439.468112
+x 0.991653 y 0.024689 z 0.165039 @ 175442.456461
+x 0.708572 y 0.042618 z 0.427612 @ 175442.458961
+x 55.743698 y 33.135300 z -32.029648 @ 175442.445092
+QuaternionX 0.470417 QuaternionY 0.599277 QuaternionZ -0.417783 QuaternionW 0.495007 UserAccelX 0.005296 UserAccelY -0.010328 UserAccelZ 0.004188 RotationRateX 0.005839 RotationRateY -0.000650 RotationRateZ 0.005822 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175442.463979
+x 0.987717 y 0.022232 z 0.167679 @ 175445.457320
+x 0.854218 y -0.533646 z -1.071091 @ 175445.459820
+x 55.515289 y 33.231827 z -31.651474 @ 175445.437203
+QuaternionX 0.470115 QuaternionY 0.600809 QuaternionZ -0.416354 QuaternionW 0.494641 UserAccelX 0.001879 UserAccelY -0.012990 UserAccelZ 0.003718 RotationRateX 0.012695 RotationRateY -0.008286 RotationRateZ -0.020788 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175445.464838
+x 0.980545 y 0.030365 z 0.167023 @ 175448.458158
+x -0.047516 y -0.464951 z -0.192398 @ 175448.460658
+x 55.485992 y 33.144531 z -31.272873 @ 175448.469249
+QuaternionX 0.468957 QuaternionY 0.601566 QuaternionZ -0.416810 QuaternionW 0.494436 UserAccelX -0.005259 UserAccelY -0.007373 UserAccelZ 0.003418 RotationRateX -0.012507 RotationRateY -0.010701 RotationRateZ -0.000952 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175448.465676
+x -0.024460 y -0.087067 z -0.997726 @ 175451.459014
+x -4.723541 y -1.062073 z -3.976013 @ 175451.461514
+x -0.524551 y 25.889694 z -55.506332 @ 175451.461483
+QuaternionX 0.011098 QuaternionY -0.044513 QuaternionZ -0.710263 QuaternionW 0.702440 UserAccelX 0.022311 UserAccelY -0.008243 UserAccelZ -0.001936 RotationRateX -0.088897 RotationRateY -0.023984 RotationRateZ -0.059911 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175451.466533
+x -0.023712 y -0.051483 z -0.977646 @ 175454.459930
+x -1.145187 y -0.217041 z -0.843781 @ 175454.462430
+x -0.087662 y 26.815964 z -56.194870 @ 175454.453700
+QuaternionX 0.004347 QuaternionY -0.028058 QuaternionZ -0.720697 QuaternionW 0.692669 UserAccelX 0.008892 UserAccelY -0.005020 UserAccelZ 0.020742 RotationRateX -0.027049 RotationRateY -0.019423 RotationRateZ -0.015544 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175454.467448
+x 0.993347 y -0.008270 z 0.024155 @ 175457.460898
+x 0.972794 y 2.494415 z 0.403748 @ 175457.463398
+x 53.074036 y 29.076218 z -37.565399 @ 175457.445158
+QuaternionX 0.510926 QuaternionY 0.501250 QuaternionZ -0.496680 QuaternionW 0.490929 UserAccelX -0.006343 UserAccelY -0.004535 UserAccelZ -0.000441 RotationRateX 0.013747 RotationRateY 0.041626 RotationRateZ 0.005517 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175457.463398
+x 0.994827 y 0.000610 z 0.031647 @ 175460.461859
+x -1.188080 y -2.301483 z -0.798172 @ 175460.464359
+x 53.690842 y 29.793732 z -36.782410 @ 175460.436209
+QuaternionX 0.505413 QuaternionY 0.509391 QuaternionZ -0.492801 QuaternionW 0.492165 UserAccelX -0.004717 UserAccelY -0.003953 UserAccelZ 0.001805 RotationRateX -0.023972 RotationRateY -0.042091 RotationRateZ -0.015461 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175460.464359
+x 1.015991 y 0.005066 z -0.012817 @ 175463.462789
+x 0.337280 y -2.129379 z 1.071960 @ 175463.465289
+x 53.191315 y 29.816589 z -38.214340 @ 175463.467383
+QuaternionX 0.491911 QuaternionY 0.503135 QuaternionZ -0.499544 QuaternionW 0.505306 UserAccelX 0.016054 UserAccelY -0.000479 UserAccelZ -0.003060 RotationRateX 0.002639 RotationRateY -0.039122 RotationRateZ 0.017178 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175463.465289
+x -0.539627 y -0.282837 z -0.794937 @ 175466.463674
+x -1.411560 y -1.745651 z -1.120163 @ 175466.466174
+x -12.901962 y 35.427048 z -47.810730 @ 175466.458584
+QuaternionX 0.092339 QuaternionY -0.317981 QuaternionZ -0.192111 QuaternionW 0.923826 UserAccelX 0.012413 UserAccelY 0.009949 UserAccelZ -0.014214 RotationRateX -0.027892 RotationRateY -0.032451 RotationRateZ -0.021083 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175466.466174
+x -0.537689 y -0.268570 z -0.777542 @ 175469.464537
+x -0.557648 y 0.552826 z 0.591049 @ 175469.467037
+x -12.685562 y 36.778580 z -48.457535 @ 175469.449522
+QuaternionX 0.084230 QuaternionY -0.312487 QuaternionZ -0.172918 QuaternionW 0.930246 UserAccelX 0.014560 UserAccelY -0.003792 UserAccelZ 0.012973 RotationRateX -0.012995 RotationRateY 0.007646 RotationRateZ 0.008782 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175469.467037
+x 0.543121 y -0.280487 z -0.798279 @ 175472.465403
+x 2.494019 y 4.334991 z -1.314728 @ 175472.467903
+x 31.126282 y 35.448654 z -58.578308 @ 175472.440557
+QuaternionX 0.180010 QuaternionY 0.260400 QuaternionZ -0.108690 QuaternionW 0.942324 UserAccelX 0.013228 UserAccelY 0.002163 UserAccelZ 0.001297 RotationRateX 0.040269 RotationRateY 0.073666 RotationRateZ -0.024480 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175472.467903
+x 0.551819 y -0.312546 z -0.763748 @ 175475.456222
+x 0.699081 y -1.616440 z 1.256470 @ 175475.468758
+x 32.364380 y 34.931793 z -57.561295 @ 175475.431383
+QuaternionX 0.194185 QuaternionY 0.272937 QuaternionZ -0.098132 QuaternionW 0.937106 UserAccelX 0.005462 UserAccelY -0.004733 UserAccelZ 0.012854 RotationRateX 0.008936 RotationRateY -0.030226 RotationRateZ 0.020395 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175475.468758
+x -0.584427 y -0.235382 z -0.758957 @ 175478.457046
+x 0.040237 y -1.392166 z -0.681091 @ 175478.459546
+x -13.839127 y 38.005676 z -46.498383 @ 175478.462416
+QuaternionX 0.064496 QuaternionY -0.333660 QuaternionZ -0.176504 QuaternionW 0.923774 UserAccelX 0.009258 UserAccelY 0.001561 UserAccelZ 0.010066 RotationRateX -0.003003 RotationRateY -0.022117 RotationRateZ -0.007851 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175478.464565
+x 0.495209 y -0.074158 z -0.862656 @ 175481.457838
+x 4.429474 y -8.126999 z 0.902771 @ 175481.460338
+x 30.620285 y 45.052307 z -56.429062 @ 175481.453709
+QuaternionX 0.050995 QuaternionY 0.250741 QuaternionZ -0.031673 QuaternionW 0.966191 UserAccelX 0.007451 UserAccelY 0.008500 UserAccelZ 0.006401 RotationRateX 0.070185 RotationRateY -0.141474 RotationRateZ 0.014595 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175481.465356
+x 0.436111 y -0.125565 z -0.859558 @ 175484.458616
+x -1.724503 y 0.276825 z 0.168915 @ 175484.461116
+x 28.590897 y 43.558884 z -57.603363 @ 175484.445179
+QuaternionX 0.069665 QuaternionY 0.223731 QuaternionZ -0.040862 QuaternionW 0.971299 UserAccelX -0.004201 UserAccelY -0.008518 UserAccelZ 0.030624 RotationRateX -0.040725 RotationRateY 0.008518 RotationRateZ -0.002107 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175484.466134
+x -0.675888 y -0.128723 z -0.720230 @ 175487.459375
+x -1.274078 y 0.112625 z 4.117874 @ 175487.461875
+x -13.417572 y 43.880844 z -45.257004 @ 175487.436452
+QuaternionX 0.051259 QuaternionY -0.370707 QuaternionZ -0.045252 QuaternionW 0.926230 UserAccelX 0.006192 UserAccelY -0.000218 UserAccelZ -0.000332 RotationRateX -0.026918 RotationRateY 0.006577 RotationRateZ 0.072562 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175487.466893
+x 0.783081 y -0.047440 z -0.600693 @ 175490.460121
+x 0.052246 y 8.088745 z 6.681152 @ 175490.462621
+x 43.082458 y 46.621216 z -46.692200 @ 175490.467524
+QuaternionX 0.024839 QuaternionY 0.439159 QuaternionZ -0.001005 QuaternionW 0.898065 UserAccelX -0.005756 UserAccelY -0.003709 UserAccelZ 0.012351 RotationRateX -0.013303 RotationRateY 0.142369 RotationRateZ 0.121413 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175490.467639
+x 0.783783 y -0.041534 z -0.619843 @ 175493.460851
+x -2.905548 y -0.583954 z -0.357681 @ 175493.463351
+x 42.616760 y 47.251678 z -46.971817 @ 175493.458723
+QuaternionX 0.019640 QuaternionY 0.432226 QuaternionZ -0.001017 QuaternionW 0.901551 UserAccelX 0.004396 UserAccelY -0.007000 UserAccelZ 0.005748 RotationRateX -0.046744 RotationRateY -0.013158 RotationRateZ -0.000540 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175493.468369
+x -0.657410 y -0.156128 z -0.736923 @ 175496.461574
+x -0.255798 y 0.527344 z 0.360245 @ 175496.464074
+x -12.485992 y 43.048401 z -46.874420 @ 175496.450006
+QuaternionX 0.067973 QuaternionY -0.354338 QuaternionZ -0.040878 QuaternionW 0.931747 UserAccelX -0.002660 UserAccelY -0.000492 UserAccelZ 0.002725 RotationRateX -0.007762 RotationRateY 0.007087 RotationRateZ 0.004743 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175496.464074
+x -0.620499 y -0.126404 z -0.762054 @ 175499.462289
+x 0.098557 y 2.234344 z -1.728073 @ 175499.464789
+x -11.094574 y 43.487656 z -47.627731 @ 175499.441244
+QuaternionX 0.055433 QuaternionY -0.336665 QuaternionZ -0.040733 QuaternionW 0.939109 UserAccelX 0.007315 UserAccelY 0.005137 UserAccelZ 0.005114 RotationRateX -0.001579 RotationRateY 0.036875 RotationRateZ -0.031705 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175499.464789
+x -0.527145 y -0.176590 z -0.796906 @ 175502.462996
+x 3.362152 y 6.363266 z -4.120773 @ 175502.465496
+x -9.838028 y 41.610901 z -49.715744 @ 175502.432332
+QuaternionX 0.074470 QuaternionY -0.298289 QuaternionZ -0.060662 QuaternionW 0.949630 UserAccelX 0.030349 UserAccelY 0.001037 UserAccelZ 0.014050 RotationRateX 0.055378 RotationRateY 0.108931 RotationRateZ -0.073466 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175502.465496
+x -0.667313 y -0.125977 z -0.713531 @ 175505.463694
+x 2.590530 y -2.346848 z 0.769180 @ 175505.466194
+x -13.122498 y 43.862961 z -46.356049 @ 175505.463390
+QuaternionX 0.061466 QuaternionY -0.368340 QuaternionZ -0.019459 QuaternionW 0.927453 UserAccelX 0.013532 UserAccelY 0.002371 UserAccelZ 0.007563 RotationRateX 0.041908 RotationRateY -0.043099 RotationRateZ 0.011879 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175505.466194
+x 0.708771 y -0.121033 z -0.685043 @ 175508.464399
+x 1.571930 y -0.436874 z 2.082855 @ 175508.466899
+x 41.492081 y 43.610657 z -49.928818 @ 175508.454563
+QuaternionX 0.056263 QuaternionY 0.389086 QuaternionZ 0.019609 QuaternionW 0.919272 UserAccelX -0.004375 UserAccelY -0.002331 UserAccelZ 0.005849 RotationRateX 0.024136 RotationRateY -0.009746 RotationRateZ 0.034808 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175508.466899
+x -0.640976 y -0.144150 z -0.738983 @ 175511.465138
+x 0.907715 y 9.089233 z 0.979736 @ 175511.467638
+x -11.017578 y 43.050003 z -47.110367 @ 175511.445824
+QuaternionX 0.069408 QuaternionY -0.350319 QuaternionZ -0.025752 QuaternionW 0.933700 UserAccelX 0.009636 UserAccelY 0.003506 UserAccelZ 0.005934 RotationRateX 0.012550 RotationRateY 0.156537 RotationRateZ 0.015557 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175511.467638
+x 0.562927 y -0.049805 z -0.809875 @ 175514.455851
+x -1.527267 y 2.358810 z -0.912842 @ 175514.458351
+x 34.856705 y 46.027802 z -52.581467 @ 175514.437098
+QuaternionX 0.023972 QuaternionY 0.298884 QuaternionZ 0.009744 QuaternionW 0.953938 UserAccelX -0.006840 UserAccelY 0.001755 UserAccelZ 0.010311 RotationRateX -0.018815 RotationRateY 0.039333 RotationRateZ -0.018902 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175514.463369
+x -0.114319 y -0.167969 z -0.933380 @ 175517.456641
+x 66.283875 y 33.426682 z 2.331528 @ 175517.459141
+x 7.299866 y 37.959122 z -59.177719 @ 175517.468349
+QuaternionX 0.123851 QuaternionY -0.049648 QuaternionZ -0.079856 QuaternionW 0.987836 UserAccelX -0.036012 UserAccelY 0.084649 UserAccelZ 0.031012 RotationRateX 1.153820 RotationRateY 0.583815 RotationRateZ 0.035379 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175517.464159
+x -0.066345 y -0.522568 z -0.806778 @ 175520.457432
+x 50.407059 y 2.516724 z 0.409592 @ 175520.459932
+x 6.705765 y 24.794052 z -58.795441 @ 175520.459592
+QuaternionX 0.289682 QuaternionY -0.070070 QuaternionZ -0.096687 QuaternionW 0.949645 UserAccelX 0.010722 UserAccelY 0.041172 UserAccelZ 0.015571 RotationRateX 0.857684 RotationRateY 0.105802 RotationRateZ 0.003971 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175520.464950
+x -0.044037 y -0.894196 z -0.436005 @ 175523.458223
+x 3.355881 y -12.418640 z -3.495865 @ 175523.460723
+x 11.863312 y 6.504440 z -52.334824 @ 175523.450691
+QuaternionX 0.524237 QuaternionY -0.028085 QuaternionZ 0.006670 QuaternionW 0.851083 UserAccelX 0.010762 UserAccelY -0.002232 UserAccelZ 0.012770 RotationRateX 0.049221 RotationRateY -0.227661 RotationRateZ -0.058366 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175523.465741
+x -0.121506 y -0.797119 z -0.593124 @ 175526.459017
+x 6.341019 y 5.657623 z -8.538986 @ 175526.461517
+x 9.860687 y 11.885437 z -55.732941 @ 175526.441905
+QuaternionX 0.455986 QuaternionY -0.047853 QuaternionZ 0.017952 QuaternionW 0.888518 UserAccelX -0.020098 UserAccelY 0.011467 UserAccelZ -0.013551 RotationRateX 0.092253 RotationRateY 0.072601 RotationRateZ -0.149916 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175526.466535
+x 0.060043 y -0.797577 z -0.596390 @ 175529.459818
+x -35.174469 y 35.455475 z -5.478210 @ 175529.462318
+x 15.292999 y 13.212509 z -56.993515 @ 175529.432905
+QuaternionX 0.433375 QuaternionY 0.025485 QuaternionZ -0.008594 QuaternionW 0.900812 UserAccelX 0.006680 UserAccelY -0.017236 UserAccelZ 0.026684 RotationRateX -0.634823 RotationRateY 0.617995 RotationRateZ -0.072746 MagneticFieldX 0.000000 MagneticFieldY 0.000000 MagneticFieldZ 0.000000 MagneticFieldAccuracy -1 Heading -1.000000 @ 175529.467336
